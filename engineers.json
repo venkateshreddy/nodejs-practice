@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Mahesh",
+        " qualification": "BTech",
+        " gender": "Male",
+        "designation": "UI Developer",
+        "YOE": 5
+    },
+    {
+        "id": 2,
+        "name": "Suresh",
+        "qualification": "MTech",
+        "gender": "Male",
+        "designation": "Software Developer",
+        "YOE": 10
+    },
+    {
+        "id": 3,
+        "name": "Shiril",
+        "qualification": "MCA",
+        "gender": "Female",
+        "designation": "UI Developer",
+        "YOE": 6
+    },
+    {
+        "id": 6,
+        "name": "Mary",
+        "gender": "Female",
+        "designation": "Develop",
+        "qualification": "MSc",
+        "YOE": 6
+    },
+    {
+        "id": 5,
+        "name": "Munna",
+        "gender": "Female",
+        "designation": "DevOps Developer",
+        "qualification": "MSc",
+        "YOE": 6
+    },
+    {
+        "id": 6,
+        "name": "Mukul",
+        "gender": "Male",
+        "designation": "Java Developer",
+        "qualification": "MSc",
+        "YOE": 6
+    },
+    {
+        "id": 7,
+        "name": "Parol",
+        "gender": "Female",
+        "designation": "Java Developer",
+        "qualification": "BSc",
+        "YOE": 2
+    },
+    {
+        "id": 8,
+        "name": "Sukku",
+        "age": 9,
+        "gender": "Female",
+        "class": "Fifth"
+    },
+    {
+        "id": 9,
+        "name": "Sukku",
+        "age": 9,
+        "gender": "Female",
+        "class": "Fifth"
+    }
+]
