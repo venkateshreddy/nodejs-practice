@@ -1,2 +1,2 @@
 # nodejs-practice
-## This is the project fro Node JS.
+## This is the project for Node JS.
