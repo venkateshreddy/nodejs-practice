@@ -1,0 +1,67 @@
+[
+    {
+        "id": "1",
+        "Name": "Sharath",
+        "Designation": "AssistantProfessor",
+        "Gender": "Male",
+        "Department": "Electronics&Communications",
+        "DateOfJoining": "6thFeb,2002",
+        "Contact": "960383087",
+        "Email": "sharath.98@gmail.com"
+    },
+    {
+        "id": "2",
+        "Name": "Udayasri",
+        "Designation": "Professor",
+        "Gender": "Female",
+        "Department": "Mechanical",
+        "DateOfJoining": "24thJan,2007",
+        "Contact": "9676588027",
+        "Email": "udaya.96@gmail.com",
+        "YOE": "6"
+    },
+    {
+        "id": "3",
+        "Name": "karthik",
+        "Designation": "ProfessorAndHead",
+        "Gender": "Male",
+        "Department": "Civil",
+        "DateOfJoining": "28thOct,1996",
+        "Contact": "960000986",
+        "Email": "karthik@gmail.com",
+        "YOE": "8"
+    },
+    {
+        "id": "4",
+        "Name": "Saikumar",
+        "Designation": "Professor",
+        "Gender": "Male",
+        "Department": "ComputerScience",
+        "DateOfJoining": "7thFeb,2004",
+        "Contact": "9100802201",
+        "Email": "sairav@gmail.com",
+        "YOE": "3"
+    },
+    {
+        "id": "5",
+        "Name": "Praveen",
+        "Designation": "Principal",
+        "Department": "Electronics&Communications",
+        "DateOfJoining": "8thNov,2008",
+        "Contact": "987654389",
+        "Email": "prav98@gmail.com",
+        "YOE": "5"
+    },
+    {
+        "id": 7,
+        "Name": "Praneeth kKmar",
+        "Designation": "HOD",
+        "Gender": "Male",
+        "Department": "ComputerAndScience & ECE",
+        "DateOfJoining": "11thjune,1996",
+        "Contact": "9787654327",
+        "Email": "praneethgmail.com",
+        "YOE": "7"
+    }
+  
+]
