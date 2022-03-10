@@ -1,0 +1,30 @@
+[ {
+    "id": 1,
+    "name": "Geetha",
+    "designation":"Senior faculty",
+   "gender": "Female",
+    "college": "Jits"
+},
+{
+    "id": 2,
+    "name": "Seetha",
+    "designation":"Junior faculty",
+    "gender": "Female",
+    "college": "Vits"
+},
+{
+    "id": 3,
+    "name": "Karthik",
+    "designation":"faculty",
+    "gender": "Male",
+    "college": "Kits"
+},
+{
+    "id": 4,
+    "name": "Venu gopal",
+    "designation":"Teacher",
+    "gender": "Male",
+    "college": "Scits"
+}
+
+]
