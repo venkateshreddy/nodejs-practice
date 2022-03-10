@@ -3,28 +3,27 @@
     "name": "Geetha",
     "designation":"Professor",
    "gender": "Female",
-    "college": "Jits"
+    "YOE":6
 },
 {
     "id": 2,
     "name": "Seetha",
-    "designation":"Junior faculty",
+    "designation":"Assistant Professor",
     "gender": "Female",
-    "college": "Vits"
+    "YOE":3
 },
 {
     "id": 3,
     "name": "Karthik",
-    "designation":"faculty",
+    "designation":"Assistant Professor",
     "gender": "Male",
-    "college": "Kits"
+    "YOE":4
 },
 {
     "id": 4,
     "name": "Venu gopal",
-    "designation":"Teacher",
+    "designation":"HOD",
     "gender": "Male",
-    "college": "Scits"
+    "YOE":8
 }
-
 ]
