@@ -1,0 +1,39 @@
+
+[
+    {
+          
+      "name":"Nagendhar",
+      "qualification":"B.Ed",
+      "gender":"Male",
+      "desgination":"Principle",
+      "YOE":8
+  },
+  {
+     "name":"Kamala",
+     "qualification":"B.tech",
+     "gender":"Female",
+     "desgination":"P.T",
+     "YOE":2
+  },
+  {
+     "name":"Suresh",
+     "qualification":"M.Ed",
+     "gender":"Male",
+     "desgination":"Teacher",
+     "YOE":3
+  },
+  {
+     "name":"Swpna",
+     "qualification":"B.Ed",
+     "gender":"Female",
+     "desgination":"Teacher",
+     "YOE":4
+  },
+  {
+     "name":"Somesh",
+     "qualification":"M.tech",
+    "gender":"Male",
+     "desgination":"Teacher",
+     "YOE":1
+  }
+  ]
