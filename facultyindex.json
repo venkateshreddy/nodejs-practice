@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Mahesh",
+        "gender": "Male",
+        "designation": "HOD",
+        "qualification": "PhD",
+        "YOE": 15,
+        "branch": {
+            "subject": "VLSI",
+            "branch": "ECE"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Suresh",
+        "gender": "Male",
+        "designation": "Associateprofessor",
+        "qualification": "MTech",
+        "YOE": 10,
+        "branch": {
+            "subject": "powersystems",
+            "branch": "EEE"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Shiril",
+        "gender": "Female",
+        "designation": "Assistantprofessor",
+        "qualification": "MCA",
+        "YOE": 6,
+        "branch": {
+            "subject": "computersystem",
+            "branch": "CSE"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Mary",
+        "gender": "Female",
+        "designation": "Assistantprofessor",
+        "qualification": "MSc",
+        "YOE": 6,
+        "branch": {
+            "subject": "neuralnetworks",
+            "branch": "IT"
+        }
+    },
+    {
+        "id": 5,
+        "name": "MaryKom",
+        "gender": "Female",
+        "designation": "professor",
+        "qualification": "Phd",
+        "YOE": 16,
+        "branch": {
+            "subject": "electricnetworks",
+            "branch": "EEE"
+        }
+    }
+]
