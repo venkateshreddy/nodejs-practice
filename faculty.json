@@ -1,3 +1,4 @@
+
 [
     {
         "id": "1",
@@ -47,4 +48,34 @@
         "desgination": "professor",
         "YOE": 5
     }
+
+[ {
+    "id": 1,
+    "name": "Geetha",
+    "designation":"Professor",
+   "gender": "Female",
+    "YOE":6
+},
+{
+    "id": 2,
+    "name": "Seetha",
+    "designation":"Assistant Professor",
+    "gender": "Female",
+    "YOE":3
+},
+{
+    "id": 3,
+    "name": "Karthik",
+    "designation":"Assistant Professor",
+    "gender": "Male",
+    "YOE":4
+},
+{
+    "id": 4,
+    "name": "Venu gopal",
+    "designation":"HOD",
+    "gender": "Male",
+    "YOE":8
+}
+
 ]

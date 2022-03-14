@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "student1",
+        "age": 17,
+        "gender": "Male",
+        "address": {
+            "address1": "Lane",
+            "address2": "Newlane",
+            "city": "Karimnagar",
+            "state": "Telangana"
+        },
+        "hobbies": [
+            "playing cricket",
+            "listening music"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "student2",
+        "age": 19,
+        "gender": "Female",
+        "address": {
+            "address1": "Lane1",
+            "address2": "Newlane1",
+            "city": "Warangal",
+            "state": "Telangana"
+        },
+        "hobbies": [
+            "playing chess",
+            "watching movies"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "student3",
+        "age": 16,
+        "gender": "Male",
+        "address": {
+            "address1": "Lane2",
+            "address2": "Newlane2",
+            "city": "Hyderabad",
+            "state": "Telangana"
+        },
+        "hobbies": [
+            "playing footabll",
+            "watching anime"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "srivani",
+        "age": 19,
+        "gender": "Female",
+        "address": {
+            "address1": "Lane3",
+            "address2": "Newlane3",
+            "city": "Bhongir",
+            "state": "Telangana"
+        },
+        "hobbies": [
+            "playing volleyball",
+            "watching cartoon"
+        ]
+    }
+]
