@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start:employees": "nodemon ./employees.js",
-    "start:students": "nodemon ./students.js"
+    "start:students": "nodemon ./students.js",
+    "start:students-mongo": "nodemon ./students-mongo.js"
   },
   "keywords": [
     "practice"
@@ -16,6 +17,7 @@
   "dependencies": {
     "express": "^4.17.3",
     "http": "0.0.1-security",
+    "mongoose": "^6.2.6",
     "mysql": "^2.18.1",
     "nodemon": "^2.0.15"
   }
