@@ -1,6 +1,7 @@
 
 const express = require('express');
 
+
 const { getdata,Savechanges} =require("./helpers")
 
 // const res = require('express/lib/response');
@@ -104,6 +105,8 @@ application.put('/employees/update/:empid', (req, res) => {
   
 // const {getData,save} = require("./helpers")
   
+
+const {getData,save} = require("./helpers")
 
 
 const application=express();
@@ -295,6 +298,27 @@ application.listen(2030)
 // Savechanges(updatedEmployees);
 //   res.send(updatedEmployees);
 // })
+application.put("/employees/update/:empid", (req, res) => {
+  //update existing employee data
+  const updatedEmployees = employees.map((employee) => {
+    console.log(employee.id, req.params.empid, 'checking here');
+    if (employee.id.toString() === req.params.empid) {
+        console.log("Inside if condition")
+      //update that employee
+      const updatedEmployee = {
+        ...employee,
+        ...req.body
+      };
+
+      return updatedEmployee;
+    } else {
+      return employee;
+    }
+
+  })
+Savechanges(updatedEmployees);
+  res.send(updatedEmployees);
+})
 
 
 
@@ -304,6 +328,12 @@ application.listen(2030)
 
 //   save(updatedEmployees);
 //   res.send(updatedEmployees);
+application.listen(3434);
+
+  });
+  save(updatedEmployees);
+  res.send(updatedEmployees);
+
 
 
 
@@ -314,4 +344,5 @@ application.listen(2030)
 // })
 
 // application.listen(8080);
-    })
+  
+

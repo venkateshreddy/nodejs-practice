@@ -1,18 +1,5 @@
-{
-  "name": "des",
-  "version": "1.0.0",
-  "description": "this is the nodejs project",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start:faculty": "nodemon ./faculty.js",
-    "start:student":"nodemon ./student.js"
- 
-  },
-  "keywords": [
-    "project"
-  ],
 
+{
   "name": "nodejs",
   "version": "1.0.0",
   "description": "",
@@ -26,29 +13,7 @@
   "dependencies": {
     "express": "^4.17.3",
     "http": "^0.0.1-security",
-
-
-
-  "name": "nodejs-practice",
-  "version": "1.0.0",
-  "description": "This is the nodejs practice project for Vita Soft",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start:employees": "nodemon ./employees.js",
-    "start:students": "nodemon ./students.js"
-  },
-  "keywords": [
-    "practice"
-  ],
-  "author": "Vita Soft",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.3",
-    "http": "0.0.1-security",
-    "mysql": "^2.18.1",
-
-
     "nodemon": "^2.0.15"
   }
 }
+
