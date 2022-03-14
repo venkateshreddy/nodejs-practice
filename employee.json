@@ -17,11 +17,12 @@
   },
   {
      "name":"Suresh",
-     "qualification":"M.Ed",
+     "qualification":"M.tech",
      "gender":"Male",
      "desgination":"Teacher",
      "YOE":3
   },
+  
   {
      "name":"Swpna",
      "qualification":"B.Ed",
