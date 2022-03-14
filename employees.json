@@ -96,4 +96,8 @@
         "desgination": "P.T",
         "YOE": 5
     }
-]
+],
+
+[{"id":1,"name":"Srivani","qualification":"BTech","designation":"full stack developer","gender":"Female","YOE":3},{"id":2,"name":"Naveena","qualification":"BTech","designation":"web developer","gender":"Female","YOE":2},{"id":3,"name":"Sharas chandra","qualification":"MSC","designation":"UI designer","gender":"Male","YOE":4},{"id":7,"name":"Ruthvik","qualification":"dip","designation":"Software Engineer","gender":"Male","YOE":"3"},{"id":8,"name":"Srija","qualification":"BE","age":"20","gender":"Female"},{"id":9,"name":"varun","qualification":"Bsc","age":"20","gender":"male"},{"id":10,"name":"kruthika","qualification":"Mba","age":"25","gender":"Female"},{"id":11,"name":"baalu","gender":"Female","qualification":"bsc"},{"id":9,"name":"shylu","qualification":"Msc","age":"24","gender":"Female"},{"id":10,"name":"Vamshi","qualification":"Mba","age":"25","gender":"Male"}]
+
+[{"id":1,"name":"Sai Krishna","qualification":"BTech","designation":"Software Engineer","gender":"Male","YOE":3},{"id":2,"name":"Vinay","qualification":"MTech","designation":"Web Developer","gender":"Male","YOE":4},{"id":3,"name":"Sharas Chandra","qualification":"MTech","designation":"Web Developer","gender":"Male","YOE":4},{"id":4,"name":"Udaya Sri","qualification":"MCA","designation":"UI Designer","gender":"Female","YOE":2},{"id":5,"name":"Naveena","qualification":"MSc","designation":"Project Manager","gender":"Female","YOE":8},{"id":6,"name":"Venkatesh","qualification":"MCA","designation":"Software Engineer","gender":"Male","YOE":10},{"id":7,"name":"Vijay Kumar","qualification":"BE","designation":"CTO","gender":"Male","YOE":10},{"id":8,"name":"Harish","qualification":"MSc","designation":"Web Designer","gender":"Male","YOE":12},{"id":9,"name":"Rajesh","qualification":"Btech","designation":"Web Developer","gender":"Male","YOE":5}]
