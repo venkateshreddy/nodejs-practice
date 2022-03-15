@@ -1,1 +1,42 @@
-[{"id":"1","name":"shravan","Branch":"ECE","section":"B","roll number":"505","college":"kits"},{"id":"2","name":"venu","Branch":"Civil","section":"B","roll number":"105","college":"kits"},{"id":4,"name":"vamshi","Branch":"Mech","section":"B","roll number":"205","college":"kits"},{"id":4,"name":"Vishnu","Branch":"CSE","section":"A","roll number":"505","college":"kits"},{"id":5,"name":"Ravali","Branch":"CSE","section":"A","roll number":"509","college":"kits"}]
+[
+    {
+        "id": "1",
+        "name": "shravan",
+        "Branch": "ECE",
+        "section": "B",
+        "roll number": "505",
+        "college": "kits"
+    },
+    {
+        "id": "2",
+        "name": "venu",
+        "Branch": "Civil",
+        "section": "B",
+        "roll number": "105",
+        "college": "kits"
+    },
+    {
+        "id": 4,
+        "name": "vamshi",
+        "Branch": "Mech",
+        "section": "B",
+        "roll number": "205",
+        "college": "kits"
+    },
+    {
+        "id": 4,
+        "name": "Vishnu",
+        "Branch": "CSE",
+        "section": "A",
+        "roll number": "505",
+        "college": "kits"
+    },
+    {
+        "id": 5,
+        "name": "Ravali",
+        "Branch": "CSE",
+        "section": "A",
+        "roll number": "509",
+        "college": "kits"
+    }
+]
