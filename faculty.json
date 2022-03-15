@@ -47,9 +47,9 @@
         "gender": "Female",
         "desgination": "professor",
         "YOE": 5
-    }
+    },
 
-[ {
+ {
     "id": 1,
     "name": "Geetha",
     "designation":"Professor",
@@ -77,5 +77,6 @@
     "gender": "Male",
     "YOE":8
 }
+
 
 ]
