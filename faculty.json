@@ -49,7 +49,7 @@
         "YOE": 5
     },
 
-[ {
+ {
     "id": 1,
     "name": "Geetha",
     "designation":"Professor",
@@ -78,5 +78,8 @@
     "YOE":8
 }
 
+faculty-api
 ]
+
+ 
 ]
