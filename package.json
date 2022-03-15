@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start:employees": "nodemon ./employees.js",
     "start:students": "nodemon ./students.js",
-    "start:students-api": "nodemon ./src/api/students/students.js"
+    "start:students-api": "nodemon ./src/api/students/index.js"
   },
   "keywords": [
     "practice"
