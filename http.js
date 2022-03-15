@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
->>>>>>> b84fa909959671c18e55481389b1b74c2980988a
 // const http= require ('http');
 // const { type } = require('express');
 // http.createServer((request,response) =>{
@@ -22,11 +18,8 @@ application.get('/',function(req,res) {
 })
 
 application.listen(9000);
-<<<<<<< HEAD
-=======
-=======
 
->>>>>>> b84fa909959671c18e55481389b1b74c2980988a
+
 const http = require('http');
 
 
@@ -45,8 +38,4 @@ http.createServer((request, response) => {
 }).listen(3333);
 
 
-<<<<<<< HEAD
->>>>>>> main
-=======
 
->>>>>>> b84fa909959671c18e55481389b1b74c2980988a
