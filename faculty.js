@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
->>>>>>> b84fa909959671c18e55481389b1b74c2980988a
 // const { query } = require('express');
 const express = require('express');
 // const res = require('express/lib/response');
@@ -80,15 +76,12 @@ fileSystem.writeFileSync('./faculty.json',JSON.stringify(changes))
 }
 
   application.listen(4545);
-<<<<<<< HEAD
-=======
-=======
 
->>>>>>> b84fa909959671c18e55481389b1b74c2980988a
+
 
         const express=require("express");
         const { myData ,save} = require("./facultyhelper");
-        const application=express();
+        const Application=express();
         
         application.use(express.json());
         application.use(express.urlencoded({extended:true}));
@@ -142,8 +135,4 @@ fileSystem.writeFileSync('./faculty.json',JSON.stringify(changes))
             res.send(remainingFaculty);
         })
         application.listen(3333);
-<<<<<<< HEAD
->>>>>>> main
-=======
 
->>>>>>> b84fa909959671c18e55481389b1b74c2980988a
