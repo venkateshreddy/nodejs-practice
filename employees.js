@@ -103,17 +103,17 @@ application.put('/employees/update/:empid', (req, res) => {
 const {getData,save} = require("./helpers")
 
 
-const application=express();
+const Application=express();
 
 //add two lines to tell the express application for handle the body(post method)
-application.use(express.json());
-application.use(express.urlencoded({ extended:true }));
+Application.use(express.json());
+Application.use(express.urlencoded({ extended:true }));
 
 //calling getData function to read the employees from jsonfile
-let employees = [];
- const getDataPromise = getData();
- getDataPromise.then(result =>{  //here getData function will return a promise
-  employees = result;
+let Employees = [];
+ const gedataPromise = getData();
+ gedataPromise.then(result =>{  //here getData function will return a promise
+  Employees = result;
 }) 
 .catch(err =>{
   console.log("Received error");
@@ -298,13 +298,6 @@ Savechanges(updatedEmployees);
 
 
 
-application.listen(3434);
-
-  });
-  save(updatedEmployees);
-  res.send(updatedEmployees);
-});
-
 
 application.delete('/employees/delete/:id', (req, res) => {
     const remainingEmployees = employees.filter(emp => emp.id != req.params.id);
@@ -314,4 +307,7 @@ application.delete('/employees/delete/:id', (req, res) => {
 
 application.listen(8080);
 
-
+    
+}
+});
+})
