@@ -103,16 +103,16 @@ application.put('/employees/update/:empid', (req, res) => {
 const {getData,save} = require("./helpers")
 
 
-const application=express();
+const Application=express();
 
 //add two lines to tell the express application for handle the body(post method)
 application.use(express.json());
 application.use(express.urlencoded({ extended:true }));
 
 //calling getData function to read the employees from jsonfile
-let employees = [];
- const getDataPromise = getData();
- getDataPromise.then(result =>{  //here getData function will return a promise
+let Employees = [];
+ const getdataPromise = getData();
+ getdataPromise.then(result =>{  //here getData function will return a promise
   employees = result;
 }) 
 .catch(err =>{
@@ -298,12 +298,12 @@ Savechanges(updatedEmployees);
 
 
 
-application.listen(3434);
+// application.listen(3434);
 
-  });
-  save(updatedEmployees);
-  res.send(updatedEmployees);
-});
+  // });
+  // save(updatedEmployees);
+  // res.send(updatedEmployees);
+// });
 
 
 application.delete('/employees/delete/:id', (req, res) => {
@@ -314,4 +314,6 @@ application.delete('/employees/delete/:id', (req, res) => {
 
 application.listen(8080);
 
-
+    }
+})
+})
