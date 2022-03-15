@@ -1,0 +1,68 @@
+[
+
+    {
+        "id": 1,
+        "name": "Navya",
+        "branch": "ECE",
+        "age": "21",
+        "gender": "Female",
+        "college": "Jits"
+    },
+    {
+        "id": 2,
+        "name": "Divya",
+        "branch": "ECE",
+        "age": "22",
+        "gender": "Female",
+        "college": "Vits"
+    },
+    {
+        "id": 3,
+        "name": "Bavya",
+        "branch": "CSE",
+        "age": "21",
+        "gender": "Female",
+        "college": "Kits"
+    },
+    {
+        "id": 4,
+        "name": "Ramu",
+        "branch": "EEE",
+        "age": "23",
+        "gender": "Male",
+        "college": "Scits"
+    },
+    {
+        "id": 5,
+        "name": "Gopi",
+        "branch": "CSE",
+        "age": "22",
+        "gender": "Male",
+        "college": "Vits"
+    },
+    {
+        "id": 6,
+        "name": "Hema",
+        "branch": "IT",
+        "age": "22",
+        "gender": "Female",
+        "college": "Kits"
+    }
+]
+
+
+
+
+
+
+
+
+
+   {
+       "name":"sruthi",
+       "age":10,
+       "gender":"female",
+       "class":"Fifth"
+   }
+]
+
