@@ -1,4 +1,4 @@
-    const { required } = require("nodemon/lib/config");
+  
 const {mongoose} = require("../mongoose-config")
     
     //faculty schema
