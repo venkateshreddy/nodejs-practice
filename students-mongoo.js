@@ -11,25 +11,9 @@ const mongoose=require("mongoose");
  .catch(err=>{
  console.log("err");
  })
-//this is student schema.how the data should like in the students collections
-   const studentsSchema = new mongoose.Schema({
-      name:{
-         type:String
-      },
-      gender:{
-         type:String
-      },
-      dob:{
-         type:Date
-      },
-      branch:{
-         type:String
-      }
-   })
-   //this is students model which connects the table and schema
-    const studentsModel = mongoose.model('students',studentsSchema);
-    studentsModel.create({name:"Ram", gender:"Male","dob":new Date("12/5/2000"),branch:"EEE"})
-     studentsModel.create({name:"Laxman", gender:"Male",branch:"ECE"})
+ 
+   //  studentsModel.create({name:"Ram", gender:"Male","dob":new Date("12/5/2000"),branch:"EEE"})
+   //  studentsModel.create({name:"Laxman", gender:"Male",branch:"ECE"})
    
 
 application.get('/',function (req,res){
