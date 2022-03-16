@@ -10,10 +10,7 @@ const{
 
  
  
-// StudentsModule.create(
-//   {name:"Pranay",gender:"Male","dob":new Date("12/04/1995"),branch:"CSE",college:"Kits"},
-//   {name:"Naveena",gender:"Female","dob":new Date("12/04/1999"),branch:"CSE",college:"Kits"}
-//   )
+
  
 application.get('/', function (req, res) {
   res.send({ message: "welocome to Student management System" })

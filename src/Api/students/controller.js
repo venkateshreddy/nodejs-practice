@@ -9,7 +9,7 @@ GetAllStudents: (req,res) => {
       }
     })
 },
-CreteStudent : function (req,res) {
+CreteStudent : (req,res) =>{
     StudentsModule.create(req.body,(error,data)=>{
       if(error){
        res.send({error:true ,type:error.name, message:error.message});
