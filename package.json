@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ./employees.js"
+    "start": "nodemon ./employees.js",
+    "start:Mongoose.Students.js": "nodemon ./Mongoose.Students.js"
+   
   },
   "author": "",
   "license": "ISC",
