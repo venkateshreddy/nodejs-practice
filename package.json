@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-task1",
+  "name": "nodejs-practice",
   "version": "1.0.0",
-  "description": "Nodejs New Task 1",
+  "description": "This is the nodejs practice project for Vita Soft",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,9 +11,9 @@
     "start:faculty-api":"nodemon ./src/api/faculty/faculty.js"
   },
   "keywords": [
-    "Task1"
+    "practice"
   ],
-  "author": "Vita Technology",
+  "author": "Vita Soft",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.3",
